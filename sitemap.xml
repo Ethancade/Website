@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/Ethancade/Website/about.html</loc>
-    <lastmod>2022-12-10T01:18:28.277Z</lastmod>
+    <lastmod>2022-12-10T03:41:40.894Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Ethancade/Website/index.html</loc>
-    <lastmod>2022-12-10T01:18:28.772Z</lastmod>
+    <lastmod>2022-12-10T03:41:41.428Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/Ethancade/Website/posts/Project1.html</loc>
-    <lastmod>2022-12-10T01:18:30.901Z</lastmod>
+    <loc>https://github.com/Ethancade/Website/posts/QuantitativeAnalysis.html</loc>
+    <lastmod>2022-12-10T03:41:44.869Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Ethancade/Website/posts/TextAnalysis.html</loc>
+    <lastmod>2022-12-10T03:41:50.528Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Ethancade/Website/templates/AboutTemplate.html</loc>
-    <lastmod>2022-12-10T01:18:32.227Z</lastmod>
+    <lastmod>2022-12-10T03:41:51.845Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Ethancade/Website/templates/PostTemplate.html</loc>
-    <lastmod>2022-12-10T01:18:36.169Z</lastmod>
+    <lastmod>2022-12-10T03:41:55.760Z</lastmod>
   </url>
 </urlset>

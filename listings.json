@@ -6,7 +6,8 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/Project1.html"
+      "/posts/QuantitativeAnalysis.html",
+      "/posts/TextAnalysis.html"
     ]
   }
 ]
