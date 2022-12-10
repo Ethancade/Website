@@ -7,6 +7,6 @@ listing:
   sort: "title"
 ---
 
-Hello, my name is Ethan Campbell and I am a Data Analytic and Computational Social Science Master student at University of Massachusetts Amherst focusing on analyzing data to drive decision making through statistical methodology and logical processes. I earned my B.S in Business Administration at the University of Charleston, WV. My research includes, climate change, economics, computational social science. I am wanting to expand my knowledge into a diverse and creative company that is always innovating unique solutions. Thank you for taking some time to get to know me. I would love to get in touch and learn more about how we can work together. Below you can find my resume and contact information.
 
-![](about/images/resume.PNG)
+
+Find out more about me!
