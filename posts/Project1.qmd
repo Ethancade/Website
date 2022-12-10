@@ -1,0 +1,28 @@
+---
+title: "Project one"
+author: "Ethan Campbell"
+description: "First project"
+date: "10/31/2022"
+format:
+  html:
+    toc: true
+    code-fold: true
+    code-copy: true
+    code-tools: true
+
+---
+
+```{r}
+#| label: setup
+#| warning: false
+
+library(tidyverse)
+
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+x <- c(2,3,4,5)
+mean(x)
+```
