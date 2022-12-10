@@ -4,21 +4,21 @@
     "href": "about.html",
     "title": "About me",
     "section": "",
-    "text": "No matching items"
+    "text": "Hello, my name is Ethan Campbell and I am a Data Analytic and Computational Social Science Master student at University of Massachusetts Amherst focusing on analyzing data to drive decision making through statistical methodology and logical processes. I earned my B.S in Business Administration at the University of Charleston, WV. My research includes, climate change, economics, computational social science. I am wanting to expand my knowledge into a diverse and creative company that is always innovating unique solutions. Thank you for taking some time to get to know me. I would love to get in touch and learn more about how we can work together. Below you can find my resume and contact information.\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Ethan Campbell",
     "section": "",
-    "text": "Project one\n\n\n\n\n\nFirst project\n\n\n\n\n\n\nOct 31, 2022\n\n\nEthan Campbell\n\n\n\n\n\n\nNo matching items"
+    "text": "The blog posts here are contributed by Ethan Campbell and is a collection of my work.\n\n\n\n\n\n\n\n\n\n\nProject one\n\n\n\n\n\nFirst project\n\n\n\n\n\n\nOct 31, 2022\n\n\nEthan Campbell\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/Project1.html",
     "href": "posts/Project1.html",
     "title": "Project one",
     "section": "",
-    "text": "Code\nx <- c(2,3,4,5)\nmean(x)\n\n\n[1] 3.5"
+    "text": "Code\nlibrary(tidyverse)\n\nknitr::opts_chunk$set(echo = TRUE)\n\n\n\n\nCode\nx <- c(2,3,4,5)\nmean(x)\n\n\n[1] 3.5"
   },
   {
     "objectID": "templates/AboutTemplate.html",
