@@ -11,5 +11,12 @@
       "/posts/QuantitativeAnalysis.html",
       "/posts/TextAnalysis.html"
     ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/QuantitativeAnalysis.html",
+      "/posts/TextAnalysis.html"
+    ]
   }
 ]

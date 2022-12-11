@@ -16,8 +16,8 @@ website:
         href: https://ethancade.github.io/Website/
       - text: "About me"
         file: about.qmd
-      - href: https://umass.edu/sbs/dacss
-        text: "DACSS"
+      - text: "Blog"
+        file: blog.qmd
       - icon: github
         href: https://github.com/Ethancade
         aria-label: GitHub
