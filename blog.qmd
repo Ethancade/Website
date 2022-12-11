@@ -5,10 +5,10 @@ editor: visual
 
 Taking a deeper look in to the projects I have completed and the lesson and techniques I have learned from them.
 
-## Project 1 - Textual Analysis
+## Project 1 - [Textual Analysis](https://ethancade.github.io/Website/posts/TextAnalysis.html) 
 
 This was my first time working with textual data and was a very interesting experience since I was able to dive deeper into something I am passionate about, Soccer. This analysis was on the English premier league and determining whether the language changes over the season and how it relates to the team success. During this time I utilized a lot of new techniques such as, web scraping, creating a corpus, preprocessing my data, loops, sentiment analysis, and models. This was a very eye opening experience since I had only worked with quantitative data and now I have touched a new aspect of the analytic world. This is one project I will continue to expand I am wanting to collect data on all the teams in the premier league and then expand the scope of my analysis and look into other aspects of the game.
 
-## Project 2 - Quantitative Analysis
+## Project 2 - [Quantitative Analysis](https://ethancade.github.io/Website/posts/QuantitativeAnalysis.html)
 
 This was my first time using regression analysis within the R program and I found this to be pretty smooth and I enjoyed how much information you could pull and or predict from the data. This gave me a deeper look into the numbers and the patterns and how they relate to one another and I found this aspect interesting as it showed there are deeper levels to the analysis. This was also my first time using some model evaluation which I used backward elimination and I even got to utilize some logs with the regression analysis. I learned how many new aspects there can be when approaching data from a different angle and it expanded my knowledge and my ability to manipulate data to drive data driven information.
